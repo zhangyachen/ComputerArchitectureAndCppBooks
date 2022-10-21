@@ -11,14 +11,13 @@
 - c++标准库 第二版.pdf
 - c++并发编程 第二版 中文版（非官方版）.pdf
 - c++并发编程 第二版 英文版.pdf
-- c++现代白皮书.pdf
+- 现代c++白皮书.pdf
 - Effective Modern C++ 英文版.pdf
 - Effective Modern C++ 中文版.pdf
 - STL源码剖析.pdf
 - Hands-on Design Patterns with C++.pdf
 - Linux多线程服务端编程：使用muduo C++网络库.pdf
 - 大规模C++软件开发-卷1-过程与架构 英文版.pdf
-- Linux多线程服务端编程：使用muduo C++网络库.pdf
 
 ## 计算机体系结构
 - 计算机组成与设计 硬件软件接口 第五版.pdf
@@ -51,7 +50,7 @@
 - 性能之巅 第一版.pdf
 
 ## 异构计算与CUDA
-- CUDA C编程权威指南 第二版.pdf
+- CUDA C编程权威指南.pdf
 - 大规模并行处理器编程实战 第三版.pdf
 - GPU编程实战(基于Python和CUDA).pdf
 
