@@ -18,6 +18,7 @@
 - Hands-on Design Patterns with C++.pdf
 - Linux多线程服务端编程：使用muduo C++网络库.pdf
 - 大规模C++软件开发-卷1-过程与架构 英文版.pdf
+- Linux多线程服务端编程：使用muduo C++网络库.pdf
 
 ## 计算机体系结构
 - 计算机组成与设计 硬件软件接口 第五版.pdf
@@ -50,7 +51,7 @@
 - 性能之巅 第一版.pdf
 
 ## 异构计算与CUDA
-- CUDA C编程权威指南.pdf
+- CUDA C编程权威指南 第二版.pdf
 - 大规模并行处理器编程实战 第三版.pdf
 - Hands-On GPU Programming with Python and CUDA（GPU编程实战(基于Python和CUDA)）.pdf
 
