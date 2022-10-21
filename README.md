@@ -53,7 +53,7 @@
 ## 异构计算与CUDA
 - CUDA C编程权威指南 第二版.pdf
 - 大规模并行处理器编程实战 第三版.pdf
-- Hands-On GPU Programming with Python and CUDA（GPU编程实战(基于Python和CUDA)）.pdf
+- GPU编程实战(基于Python和CUDA).pdf
 
 ## 其他
 - 程序员修炼之道 第二版.pdf
